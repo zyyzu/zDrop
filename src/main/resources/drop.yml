@@ -1,0 +1,8 @@
+normal:
+  STONE:
+    DIAMOND:
+      chance: 0.5
+      message: "Fajny diament ziomek"
+      minY: -100
+      maxY: 21
+      tool: DIAMOND_PICKAXE, GOLDEN_PICKAXE_ IRON_PICKAXE, NETHERITE_PICKAXE
