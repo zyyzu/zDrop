@@ -4,3 +4,8 @@ main: pl.windyh.zdrop.ZDrop
 api-version: 1.18
 authors: [ zyyzu ]
 description: Super plugin na drop!
+
+commands:
+  reload:
+  drop:
+ cd 

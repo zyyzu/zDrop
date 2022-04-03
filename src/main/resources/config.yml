@@ -1,0 +1,15 @@
+#true - przedmiot zostaje dodany do ekwipunku gracza
+#false - przedmiot wypada z bloku
+add-to-player-inventory: true
+
+#blokowanie dropu z rud
+#true - wypada cobblestone
+#false - wypada normalny drop z rudy
+block-ore-drop: true
+blocked-ores:
+  - COAL_ORE
+  - IRON_ORE
+  - COPPER_ORE
+  - GOLD_ORE
+  - DIAMOND_ORE
+
